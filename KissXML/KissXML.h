@@ -33,3 +33,4 @@ FOUNDATION_EXPORT const unsigned char KissXMLVersionString[];
 #import <KissXML/DDXMLElementAdditions.h>
 #import <KissXML/DDXMLNode.h>
 #import <KissXML/NSString+DDXML.h>
+#import <KissXML/DDXMLElement+Prefix.h>
